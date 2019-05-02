@@ -3,9 +3,7 @@
 
 
 
-Online Judge
-
-[https://github.com/pxjw/Python_data_analysys/tree/master/oj]:Online Judge
+[OnlineJudge](https://github.com/pxjw/Python_data_analysys/tree/master/oj)
 
 
 
