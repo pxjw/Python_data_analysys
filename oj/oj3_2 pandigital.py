@@ -32,8 +32,9 @@ def pandigital(nums):
             flag=True
     if flag==0:
         print("not found")
-
+    return 0
 
 
 if __name__ == "__main__":
+    
     lst = pandigital(eval(input()))
