@@ -3,7 +3,7 @@
 
 
 
-[OnlineJudge](https://github.com/pxjw/Python_data_analysys/tree/master/oj)
+OJ代码[OnlineJudge](https://github.com/pxjw/Python_data_analysys/tree/master/oj)
 
-
+课程练习代码[Class Test](https://github.com/pxjw/Python_data_analysys/tree/master/classtest)
 
